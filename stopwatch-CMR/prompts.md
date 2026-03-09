@@ -127,3 +127,7 @@ No third code block, no extra files, no prose outside code blocks.
 
 6. **Question:** Which CSS rule should the implementation follow?  
    **Your response:** `Pure inline CSS only (no Tailwind/CDN)`
+
+# Chatbot used
+
+Visual Studio Code + Codex + chatgpt
